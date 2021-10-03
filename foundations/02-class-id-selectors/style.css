@@ -1,0 +1,19 @@
+.oddBall {
+    background-color: #ffc0cb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#topDiv {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.sizeUp {
+    font-size: 24px;
+}
+
+#bottomDiv {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
